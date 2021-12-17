@@ -1,4 +1,5 @@
 public class Calculo_Area {
+    int i = 1;
 
     public static double area(double lados){
 
