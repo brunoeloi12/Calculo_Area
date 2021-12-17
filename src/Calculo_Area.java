@@ -16,5 +16,8 @@ public class Calculo_Area {
 
         System.out.println("A área do trapézio é: " + ((baseMaior + baseMenor)* altura)/2);
     }
+    public static void area(float diagonal1, float diagonal2){
+        System.out.println("A área do losango é: " + (diagonal1 * diagonal2)/2);
+    }
 
 }
